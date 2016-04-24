@@ -1,0 +1,82 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20151114131844)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (solution_01.py)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(#!/usr/bin/env python3)'
+()'
+(airports = [)'
+(    \("O\342\200\231Hare International Airport", 'ORD'\),)'
+(    \('Los Angeles International Airport', 'LAX'\),)'
+(    \('Dallas/Fort Worth International Airport', 'DFW'\),)'
+(    \('Denver International Airport', 'DEN'\))'
+(])'
+()'
+(for \(airport, code\) in airports:)'
+(    print\('The code for {} is {}.'.format\(airport, code\)\))'
+()'
+ET
+endstream
+endobj
+8 0 obj
+428
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 1
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R ]
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 0000000009 00000 n 0000000137 00000 n 0000000914 00000 n 0000000186 00000 n 0000000264 00000 n 0000000335 00000 n 0000000415 00000 n 0000000895 00000 n trailer
+<<
+/Size 9
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+999
+%%EOF
